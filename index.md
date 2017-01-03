@@ -1,3 +1,7 @@
+---
+layout: default
+title: A Short History of Kent for the young, etc
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
